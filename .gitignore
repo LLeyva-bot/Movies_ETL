@@ -1,3 +1,6 @@
+# Added ratings.csv and archive.zip
+ratings.csv
+archive.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
